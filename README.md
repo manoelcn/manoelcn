@@ -1,7 +1,10 @@
-### Hi there 👋
+<h1> Hello, world. Welcome to my profile. 🙂👋 </h1>
 
-<!--
-**manoelcn/manoelcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I am a student and here you can find some of my projects. 📚⌛</p>
+
+<a href='https://www.instagram.com/manoelcn_'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></img></a>
+
+<!--**manoelcn/manoelcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
