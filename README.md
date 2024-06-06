@@ -1,3 +1,3 @@
-## Hello, world. Welcome to my profile. 🙂👋
+## hello, world. welcome :)
 
-I am student and here you can find some of my projects. 👨‍💻⌛
+here you can find some of my projects. 👨‍💻⌛
