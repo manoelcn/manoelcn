@@ -1,3 +1,3 @@
 ## welcome :)
 
-here you can find some of my projects. 👨‍💻⌛
+here you can find my projects  👨‍💻⌛
