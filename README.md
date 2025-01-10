@@ -1,3 +1,4 @@
-## welcome :)
+<h1 align="left">welcome :)</h1>
 
-here you can find my projects  👨‍💻⌛
+<p align="left">here you will find some of my work👨‍💻⌛</p>
+<p align="left">🕸 web developer<br>📚 always learning</p>
