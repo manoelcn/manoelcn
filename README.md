@@ -1,3 +1,10 @@
-<h1 align="left">welcome :)</h1>
+```js
+import Desenvolvedor from "manoelcn";
 
-<p align="left">here you will find some of my work👨‍💻⌛</p>
+class SobreMim extends Desenvolvedor {
+  nome = "Manoel Cândido";
+  area = "Dev FullStack";
+  estudante = "Tecnologia da Informação - UFRN";
+  local = "Natal, RN - Brasil";
+}
+```
